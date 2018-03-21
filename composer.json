@@ -1,0 +1,28 @@
+{
+    "name": "skadevz/laravel-indonesia",
+    "description": "Bahasa Indonesia Untuk Laravel",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "bahasa",
+        "indonesia",
+        "terjemahan",
+        "localization"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "authors": [
+        {
+            "name": "skadevz",
+            "email": "skadevz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Skadevz\\LaravelIndonesia\\": "src/LaravelIndonesia/"
+        }
+    },
+    "minimum-stability": "dev"
+}
