@@ -1,6 +1,6 @@
 <?php
 
-namespace Skadevz\LaravelIndonesia;
+namespace Skadevz\Velenesia;
 
 use Illuminate\Support\ServiceProvider;
 

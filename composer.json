@@ -1,5 +1,5 @@
 {
-    "name": "skadevz/laravel-indonesia",
+    "name": "skadevz/velenesia",
     "description": "Bahasa Indonesia Untuk Laravel",
     "type": "library",
     "keywords": [
@@ -21,7 +21,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Skadevz\\LaravelIndonesia\\": "src/LaravelIndonesia/"
+            "Skadevz\\Velenesia\\": "src/Velenesia/"
         }
     },
     "minimum-stability": "dev"
